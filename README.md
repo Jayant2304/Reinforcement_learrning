@@ -1,1 +1,1 @@
-# Reinforcement_learrning
+# Reinforcement_learrning_stock_trading
